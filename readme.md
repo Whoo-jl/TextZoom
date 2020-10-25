@@ -1,5 +1,7 @@
 # A super-resolution dataset consists of paired LR-HR scene text images.
 
+# learn from https://blog.csdn.net/qq_38556984/article/details/106083403?utm_medium=distribute.pc_relevant.none-task-blog-title-1
+
 ## Train and Test
 
 download the Aster model from https://github.com/ayumiymk/aster.pytorch, Moran model from https://github.com/Canjie-Luo/MORAN_v2, 
